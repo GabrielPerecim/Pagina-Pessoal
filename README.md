@@ -2,7 +2,7 @@
 
 Página de portfólio pessoal desenvolvida em HTML e CSS, com informações sobre minhas áreas de interesse, formação e contato.
 
-🔗 [Acesse a página]([LINK_DO_GITHUB_PAGES_AQUI](https://gabrielperecim.github.io/Pagina-Pessoal/))
+🔗 [Acesse a página](https://gabrielperecim.github.io/Pagina-Pessoal/)
 
 ## Tecnologias utilizadas
 - HTML5
